@@ -1,0 +1,15 @@
+POS,Eng_tag,Kor_tag
+noun,"['NN', 'NNS', 'NNP', 'NNPS']","['NNG', 'NNB', 'NNP', 'NNM']"
+pronoun,"['PRP', 'WP', 'PRP$', 'WP$']",['NP']
+verb,"['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']","['VV', 'VXV', 'VCP']"
+adjective,"['JJ', 'JJR', 'JJS']","['VA', 'VXA', 'VCN']"
+adverb,"['RB', 'RBR', 'RBS', 'WRB', 'EX', 'RP']",['MAG']
+prep&conj,"['TO', 'IN', 'CC']",['MAC']
+determiner,"['DT', 'PDT', 'WDT']","['MDT', 'MDN']"
+interjection,['UH'],['IC']
+number,['CD'],['NR']
+foreignW,['FW'],['OL']
+modal,['MD'],[]
+josa,[],"['JKS', 'JKC', 'JKG', 'JKO', 'JKB', 'JKV', 'JKQ', 'JX', 'JC']"
+possesiveS,['POS'],[]
+etc, [], []
